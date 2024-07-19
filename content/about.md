@@ -4,9 +4,9 @@ date: 2024-07-19
 draft: false
 ---
 
-# Hi there! I'm Alex, a Software Engineer at Northeastern University 👋
+# Hi there! I'm Shyam, a Software Engineer at Northeastern University 👋
 
-I'm a recent graduate from Northeastern University's Khoury College of Computer Sciences, where I earned my Bachelor's degree in Computer Science with a minor in Data Science. During my time at Northeastern, I had the incredible opportunity to participate in the university's renowned co-op program, which allowed me to gain real-world experience working as a software engineer at several top-tier tech companies.
+I'm a recent graduate from Northeastern University's College of Engineering , where I earned my Bachelor's degree in Computer Science with a minor in Data Science. During my time at Northeastern, I had the incredible opportunity to participate in the university's renowned co-op program, which allowed me to gain real-world experience working as a software engineer at several top-tier tech companies.
 
 ## My Passion for Technology 💻
 

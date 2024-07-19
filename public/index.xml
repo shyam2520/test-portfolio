@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>johndoe</title>
+    <title>shyam_mylai</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on johndoe</description>
+    <description>Recent content on shyam_mylai</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Hi there! I&amp;rsquo;m Alex, a Software Engineer at Northeastern University 👋 Link to heading I&amp;rsquo;m a recent graduate from Northeastern University&amp;rsquo;s Khoury College of Computer Sciences, where I earned my Bachelor&amp;rsquo;s degree in Computer Science with a minor in Data Science. During my time at Northeastern, I had the incredible opportunity to participate in the university&amp;rsquo;s renowned co-op program, which allowed me to gain real-world experience working as a software engineer at several top-tier tech companies.</description>
+      <description>Hi there! I&amp;rsquo;m Shyam, a Software Engineer at Northeastern University 👋 Link to heading I&amp;rsquo;m a recent graduate from Northeastern University&amp;rsquo;s College of Engineering , where I earned my Bachelor&amp;rsquo;s degree in Computer Science with a minor in Data Science. During my time at Northeastern, I had the incredible opportunity to participate in the university&amp;rsquo;s renowned co-op program, which allowed me to gain real-world experience working as a software engineer at several top-tier tech companies.</description>
     </item>
     <item>
       <title>Expense Tracker Web App</title>
@@ -27,7 +27,7 @@
       <link>http://localhost:1313/resume/</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resume/</guid>
-      <description>John Doe Link to heading Computer Science Student | Northeastern University&#xA;Education Link to heading Bachelor of Science in Computer Science&#xA;Northeastern University, Boston, MA&#xA;Expected Graduation: May 2024&#xA;GPA: 3.8/4.0&#xA;Relevant Coursework:&#xA;Data Structures and Algorithms Object-Oriented Design Web Development Database Management Systems Artificial Intelligence Skills Link to heading Programming Languages: Java, Python, C++, JavaScript Web Technologies: HTML, CSS, React, Node.js Databases: MySQL, MongoDB Tools and Frameworks: Git, Docker, AWS, Spring Boot Soft Skills: Problem-solving, Communication, Teamwork, Time Management Work Experience Link to heading Software Engineering Co-op</description>
+      <description>Shyam Sundar Mylai Link to heading Computer Science Student | Northeastern University&#xA;Education Link to heading Bachelor of Science in Computer Science&#xA;Northeastern University, Boston, MA&#xA;Expected Graduation: May 2024&#xA;GPA: 3.8/4.0&#xA;Relevant Coursework:&#xA;Data Structures and Algorithms Object-Oriented Design Web Development Database Management Systems Artificial Intelligence Skills Link to heading Programming Languages: Java, Python, C++, JavaScript Web Technologies: HTML, CSS, React, Node.js Databases: MySQL, MongoDB Tools and Frameworks: Git, Docker, AWS, Spring Boot Soft Skills: Problem-solving, Communication, Teamwork, Time Management Work Experience Link to heading Software Engineering Co-op</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
